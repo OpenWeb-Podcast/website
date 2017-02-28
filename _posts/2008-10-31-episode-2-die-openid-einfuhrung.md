@@ -5,22 +5,19 @@ author: Matthias Pfefferle
 post_date: 2008-10-31 21:29:00
 post_excerpt: ""
 layout: post
-permalink: >
-  http://openwebpodcast.de/36/episode-2-die-openid-einfuhrung/
+permalink: /36/episode-2-die-openid-einfuhrung/
 published: true
 enclosure:
   - |
     http://openwebpodcast.de/mp3/openweb02.mp3
     35834824
     audio/mpeg
-    
+
   - |
     http://openwebpodcast.de/mp3/openweb01.mp3
     37792084
     audio/mpeg
-    
-btc_comment_counts:
-  - 'a:0:{}'
+
 ---
 In der zweiten Episode berichten wir anfangs kurz darüber dass Google und Microsoft jetzt OpenID Provider geworden sind und erzählen was zur Yahoo! Open Strategy, um dann ausführlich auf das Thema OpenID einzugehen. Was ist das Problem, wie sieht die Lösung aus, wie bekommt man eine OpenID, wie benutzt man eine OpenID und was ist hinsichtlich der Sicherheit zu beachten.
 

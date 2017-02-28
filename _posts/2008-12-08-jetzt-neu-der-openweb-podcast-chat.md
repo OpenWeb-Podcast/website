@@ -5,11 +5,9 @@ author: Matthias Pfefferle
 post_date: 2008-12-08 11:32:00
 post_excerpt: ""
 layout: post
-permalink: >
-  http://openwebpodcast.de/29/jetzt-neu-der-openweb-podcast-chat/
+permalink: /29/jetzt-neu-der-openweb-podcast-chat/
 published: true
-btc_comment_counts:
-  - 'a:0:{}'
+
 ---
 Wie schon in der letzten Episode angekündigt, haben wir jetzt auch einen Chatraum, in dem man sich treffen und über all die Standards und Ideen und um das offene Web austauschen kann.
 

@@ -5,10 +5,9 @@ author: Matthias Pfefferle
 post_date: 2009-06-25 21:56:21
 post_excerpt: ""
 layout: page
-permalink: http://openwebpodcast.de/impressum/
+permalink: /impressum/
 published: true
-btc_comment_counts:
-  - 'a:0:{}'
+
 ---
 Matthias Pfefferle
 

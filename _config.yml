@@ -1,0 +1,16 @@
+name: OpenWeb Podcast
+description: Der Podcast über offene Standards im Internet
+meta_description: "Der Podcast über offene Standards im Internet"
+
+markdown: kramdown
+highlighter: pygments
+logo: false
+cover: /img/owp-logo.jpg
+paginate: 15
+baseurl: /
+domain_name: 'http://openwebpodcast.de'
+gems: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url:            'blog url'
+author:         'Your Name'

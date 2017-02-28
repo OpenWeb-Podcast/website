@@ -5,15 +5,14 @@ author: Christian Scholz
 post_date: 2009-08-19 12:36:54
 post_excerpt: ""
 layout: post
-permalink: >
-  http://openwebpodcast.de/137/episode-16-wir-bitten-um-ihre-aufmerksamkeit/
+permalink: /137/episode-16-wir-bitten-um-ihre-aufmerksamkeit/
 published: true
 enclosure:
   - |
     http://openwebpodcast.de/mp3/openweb16.mp3
     75100288
     audio/mpeg
-    
+
 ---
 Diesmal dreht sich alles um die Aufmerksamkeit, und zwar die eigene. Es geht nämlich darum, wie man sein eigenes Aufmerksamkeitsprofil aufnehmen kann und was das ganze ausser angeblich besserer Werbung bringen soll.
 

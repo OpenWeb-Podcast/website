@@ -5,8 +5,7 @@ author: Matthias Pfefferle
 post_date: 2012-12-07 22:26:19
 post_excerpt: ""
 layout: post
-permalink: >
-  http://openwebpodcast.de/1862/der-openweb-podcast-ist-tot/
+permalink: /1862/der-openweb-podcast-ist-tot/
 published: true
 ---
 <a href="https://twitter.com/pixelsebi">Sebastian</a> ist jetzt im <a href="http://thin.gs">Apps-Geschäft</a> und <a href="http://mrtopf.de/">Christian</a> macht <a href="http://mrtopf.de/blog/politik-politics/opennrw-antrag/">Politik</a> und beide haben nicht mehr sehr viel Zeit für diesen Podcast. Da es sehr mühsam und langweilig ist alleine einen Podcast zu bestreiten, bleibt uns nur noch eines zu sagen:

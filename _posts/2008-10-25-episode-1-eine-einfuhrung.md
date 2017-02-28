@@ -5,8 +5,7 @@ author: Matthias Pfefferle
 post_date: 2008-10-25 16:32:00
 post_excerpt: ""
 layout: post
-permalink: >
-  http://openwebpodcast.de/37/episode-1-eine-einfuhrung/
+permalink: /37/episode-1-eine-einfuhrung/
 published: true
 enclosure:
   - |
@@ -14,8 +13,6 @@ enclosure:
     37792084
     audio/mpeg
     
-btc_comment_counts:
-  - 'a:0:{}'
 ---
 In der ersten Episode stellen wir uns nicht nur vor, sondern versuchen vor allem eine Einführung in das Thema an sich zu bieten. Was ist das Problem, warum haben wir das Problem, was gibt es für grundsätzliche Lösungsansätze und wer ist bereits in diesem Umfeld aktiv tätig?
 

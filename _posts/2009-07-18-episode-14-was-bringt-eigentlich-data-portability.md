@@ -5,15 +5,14 @@ author: Matthias Pfefferle
 post_date: 2009-07-18 12:10:14
 post_excerpt: ""
 layout: post
-permalink: >
-  http://openwebpodcast.de/107/episode-14-was-bringt-eigentlich-data-portability/
+permalink: /107/episode-14-was-bringt-eigentlich-data-portability/
 published: true
 enclosure:
   - |
     http://openwebpodcast.de/mp3/openweb14.mp3
     47711384
     audio/mpeg
-    
+
 ---
 Folge 14 besteht nochmal aus ner ganze Menge News:
 

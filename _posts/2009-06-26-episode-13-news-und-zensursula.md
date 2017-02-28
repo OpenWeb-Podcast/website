@@ -5,15 +5,14 @@ author: Matthias Pfefferle
 post_date: 2009-06-26 21:57:04
 post_excerpt: ""
 layout: post
-permalink: >
-  http://openwebpodcast.de/98/episode-13-news-und-zensursula/
+permalink: /98/episode-13-news-und-zensursula/
 published: true
 enclosure:
   - |
     http://openwebpodcast.de/mp3/openweb13.mp3
     84281501
     audio/mpeg
-    
+
 ---
 So, nach langer Abstinenz ist der OpenWebPodcast endlich wieder da und es ist alles neu... neuer Blog, neue Domain (openwebpodcast.de) und bald nen neues WIKI.
 

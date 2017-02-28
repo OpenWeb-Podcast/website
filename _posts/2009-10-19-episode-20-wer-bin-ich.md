@@ -5,19 +5,18 @@ author: Christian Scholz
 post_date: 2009-10-19 13:10:14
 post_excerpt: ""
 layout: post
-permalink: >
-  http://openwebpodcast.de/205/episode-20-wer-bin-ich/
+permalink: /205/episode-20-wer-bin-ich/
 published: true
 enclosure:
   - |
     http://openwebpodcast.de/mp3/openweb20.mp3
     67948672
     audio/mpeg
-    
+
 ---
 Nachdem der <a href="http://blog.openwebpodcast.de/187/owp19/">letzte Podcast</a> von Sebastian als technisch bezeichnet wurde, kommt nun einer, der auch wirklich technisch ist. Es geht um allerlei, was ich "<strong>Benutzerbezeichner</strong>" genannt habe, also die Frage, wie man sich als User im globalen Netzwerk mit einem globalen Identifier anmelden kann und warum das eigentlich sinnvoll ist.
 
-Wir gehen dann noch im Detail auf die entsprechenden Standards ein, die eine Rolle spielen. 
+Wir gehen dann noch im Detail auf die entsprechenden Standards ein, die eine Rolle spielen.
 
 http://openwebpodcast.de/mp3/openweb20.mp3
 <small>Länge: 1:13h (64,8 MB), <a href="http://openwebpodcast.de/mp3/openweb20.mp3">Download MP3</a></small>

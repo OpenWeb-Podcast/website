@@ -5,8 +5,7 @@ author: Matthias Pfefferle
 post_date: 2012-12-16 20:15:13
 post_excerpt: ""
 layout: post
-permalink: >
-  http://openwebpodcast.de/1872/lang-lebe-der-openweb-podcast/
+permalink: /1872/lang-lebe-der-openweb-podcast/
 published: true
 ---
 Im Juni sind Christian und ich zufällig mit <a href="http://macx.de">David Maciejewski</a> von <a href="http://technikwuerze.de">Technikwürze</a> ins <a href="https://plus.google.com/u/0/101497190553915574028/posts/9C9CkCBVbvc">Gespräch</a> gekommen:

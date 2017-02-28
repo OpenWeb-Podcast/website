@@ -5,17 +5,14 @@ author: Matthias Pfefferle
 post_date: 2008-12-19 23:11:00
 post_excerpt: ""
 layout: post
-permalink: >
-  http://openwebpodcast.de/27/episode-9-weihnachten-naht-und-wir-machen-bestandsaufnahme/
+permalink: /27/episode-9-weihnachten-naht-und-wir-machen-bestandsaufnahme/
 published: true
 enclosure:
   - |
     http://openwebpodcast.de/mp3/openweb09.mp3
     107583990
     audio/mpeg
-    
-btc_comment_counts:
-  - 'a:0:{}'
+
 ---
 Es weihnachtet sehr. Dies mag euch vielleicht beim Blick auf die Fußgängerzonen der Republik aufgefallen sein. Bei uns triggerte dies den Reflex eine Jahresrückblicks- und ausblicksfolge zu machen. Und hier ist sie! Extra lang, da extra lange Pause bis zur nächsten Folge (nehmen wir am 8. Januar auf).
 

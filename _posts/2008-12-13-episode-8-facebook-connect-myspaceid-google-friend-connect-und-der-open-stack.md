@@ -5,17 +5,14 @@ author: Matthias Pfefferle
 post_date: 2008-12-13 20:13:00
 post_excerpt: ""
 layout: post
-permalink: >
-  http://openwebpodcast.de/28/episode-8-facebook-connect-myspaceid-google-friend-connect-und-der-open-stack/
+permalink: /28/episode-8-facebook-connect-myspaceid-google-friend-connect-und-der-open-stack/
 published: true
 enclosure:
   - |
     http://openwebpodcast.de/mp3/openweb08.mp3
     63639878
     audio/mpeg
-    
-btc_comment_counts:
-  - 'a:0:{}'
+
 ---
 In der achten Episode dreht sich alles um die News der letzten Woche: Facebook Connect, Google Friend Connect und MySpaceID. Wir diskutieren, was all diese Projekte bedeuten und wie sie sich mit dem Open Stack vergleichen lassen.
 

@@ -5,15 +5,14 @@ author: Matthias Pfefferle
 post_date: 2009-02-06 20:51:00
 post_excerpt: ""
 layout: post
-permalink: >
-  http://openwebpodcast.de/25/episode-news-news-news/
+permalink: /25/episode-news-news-news/
 published: true
 enclosure:
   - |
     http://openwebpodcast.de/mp3/openweb11.mp3
     37203778
     audio/mpeg
-    
+
 ---
 In der elften Episode reden Matthias und ich über einige relevante News der letzten Wochen, da wir leider nicht genug Zeit ein zentrales Thema ordentlich vorzubereiten und auch der dritte im Bunde, leider nicht teilnehmen konnte.
 

@@ -5,8 +5,7 @@ author: Matthias Pfefferle
 post_date: 2011-09-27 00:22:30
 post_excerpt: ""
 layout: post
-permalink: >
-  http://openwebpodcast.de/409/folge-33-das-neue-facebook-und-ein-bisschen-google/
+permalink: /409/folge-33-das-neue-facebook-und-ein-bisschen-google/
 published: true
 enclosure:
   - >
@@ -76,5 +75,5 @@ Link: <a href="https://developers.google.com/+/">https://developers.google.com/+
     	<li>People: <code>https://developers.google.com/+/api/latest/people</code></li>
     	<li>Activities: <code>https://developers.google.com/+/api/latest/activities</code></li>
     	<li>Kurz: Einfach zu nutzen, alles JSON, ähnlich FB Graph API, aber weniger Content Types.</li>
- 
+
 </ul>

@@ -5,17 +5,14 @@ author: Matthias Pfefferle
 post_date: 2008-11-29 19:33:00
 post_excerpt: ""
 layout: post
-permalink: >
-  http://openwebpodcast.de/31/episode-6-distributed-social-networking/
+permalink: /31/episode-6-distributed-social-networking/
 published: true
 enclosure:
   - |
     http://openwebpodcast.de/mp3/openweb06.mp3
     75187807
     audio/mpeg
-    
-btc_comment_counts:
-  - 'a:0:{}'
+
 ---
 In der sechsten Episode berichten wir anfangs mal wieder kurz über aktuelle Neuigkeiten, um dann ausführlich über "Distributed Social Networking" zu sprechen. Diesmal haben wir <a href="http://olbertz.de/blog/">Dirk Olbertz</a> von <a href="http://noserub.com">Noserub</a> zu Gast.
 

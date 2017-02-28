@@ -5,15 +5,14 @@ author: Matthias Pfefferle
 post_date: 2008-12-08 10:14:00
 post_excerpt: ""
 layout: post
-permalink: >
-  http://openwebpodcast.de/30/episode-7-opensocial/
+permalink: /30/episode-7-opensocial/
 published: true
 enclosure:
   - |
     http://openwebpodcast.de/mp3/openweb07.mp3
     55924562
     audio/mpeg
-    
+
 btc_comment_counts:
   - 'a:0:{}'
 ---

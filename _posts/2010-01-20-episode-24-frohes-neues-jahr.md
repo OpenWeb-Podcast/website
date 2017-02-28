@@ -5,15 +5,14 @@ author: Matthias Pfefferle
 post_date: 2010-01-20 15:47:01
 post_excerpt: ""
 layout: post
-permalink: >
-  http://openwebpodcast.de/268/episode-24-frohes-neues-jahr/
+permalink: /268/episode-24-frohes-neues-jahr/
 published: true
 enclosure:
   - |
     http://openwebpodcast.de/mp3/openweb24.mp3
     56701056
     audio/mpeg
-    
+
 ---
 Über die Feiertage ist 'ne Menge passiert, deshalb besteht die Neujahrs-Folge nochmal ausschließlich aus News... aber keine Angst, eine der nächsten Folgen wird wieder ein Thema haben... Versprochen!
 

@@ -5,8 +5,7 @@ author: Christian Scholz
 post_date: 2011-08-19 17:19:49
 post_excerpt: ""
 layout: post
-permalink: >
-  http://openwebpodcast.de/401/owp32-eingekreist/
+permalink: /401/owp32-eingekreist/
 published: true
 enclosure:
   - |

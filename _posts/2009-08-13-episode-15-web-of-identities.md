@@ -5,15 +5,14 @@ author: Christian Scholz
 post_date: 2009-08-13 14:14:44
 post_excerpt: ""
 layout: post
-permalink: >
-  http://openwebpodcast.de/115/episode-15-web-of-identities/
+permalink: /115/episode-15-web-of-identities/
 published: true
 enclosure:
   - |
     http://openwebpodcast.de/mp3/openweb15.mp3
     76421248
     audio/mpeg
-    
+
 ---
 In Folge 15 des Podcast haben wir <a href="http://twitter.com/alexkorth">Alexander Korth</a> zu Gast, der gerade 2 Artikel über das <a href="http://www.readwriteweb.com/archives/web_of_data_machine_accessible_information.php">Web of Data</a> bzw. das <a href="http://www.readwriteweb.com/archives/web_of_identities_making_machine-accessible_people_data.php">Web of Identities</a> auf dem Blog <a href="http://readwriteweb.com">ReadWriteWeb</a> veröffentlich hat. Er wird uns daher erklären, was es damit auf sich hat und wie es uns in Zukunft nutzen kann.
 
