@@ -3,7 +3,7 @@ description: Der Podcast über offene Standards im Internet
 meta_description: "Der Podcast über offene Standards im Internet"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 cover: /img/owp-logo.jpg
 paginate: 15
