@@ -20,7 +20,10 @@ Da Sebastian leider keine Zeit hatte und es sich zu dritt einfach schöner podca
 
 Viel Spaß beim hören :)
 
-http://openwebpodcast.de/mp3/openweb24.mp3
+<audio controls>
+  <source src="http://openwebpodcast.de/mp3/openweb24.mp3" type="audio/mpeg">
+  Ihr Browser unterstützt diesen Audio-Player nicht.
+</audio>
 <small>Länge: 1:03h (54.1 MB), <a href="http://openwebpodcast.de/mp3/openweb24.mp3">Download MP3</a></small>
 
 <h4>News</h4>

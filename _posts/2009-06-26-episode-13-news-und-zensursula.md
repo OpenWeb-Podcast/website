@@ -20,7 +20,10 @@ In Folge 13 haben <a href="http://mrtopf.de/blog">Christian</a> und <a href="htt
 
 Viel Spaß beim hören…
 
-http://openwebpodcast.de/mp3/openweb13.mp3
+<audio controls>
+  <source src="http://openwebpodcast.de/mp3/openweb13.mp3" type="audio/mpeg">
+  Ihr Browser unterstützt diesen Audio-Player nicht.
+</audio>
 
 Die Links zur Sendung <a href="http://openweb.mixxt.de/networks/wiki/index.episode-13">findet ihr hier</a>!
 

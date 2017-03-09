@@ -19,7 +19,10 @@ btc_comment_counts:
 In der siebten Episode berichten wir anfangs mal wieder kurz über aktuelle Neuigkeiten, um dann ausführlich über <a href="http://opensocial.org">OpenSocial</a> zu sprechen. Wir geben euch eine recht allgemeine Einleitung in das Thema und erklären sowohl die Gadget als auch die RESTful API.
 Wie im Podcast bereits angekündigt, haben wir noch neun <a href="http://cliqset.com">Cliqset</a> Beta Invites für Developer zu verschenken. Wer einen haben möchte, einfach hier kurz in den Kommentaren melden!
 
-http://openwebpodcast.de/mp3/openweb07.mp3
+<audio controls>
+  <source src="http://openwebpodcast.de/mp3/openweb07.mp3" type="audio/mpeg">
+  Ihr Browser unterstützt diesen Audio-Player nicht.
+</audio>
 
 Die Links zur Sendung <a href="http://openweb.mixxt.de/networks/wiki/index.episode-7">findet ihr hier</a>!
 

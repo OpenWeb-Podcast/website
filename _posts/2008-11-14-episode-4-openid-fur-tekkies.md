@@ -14,10 +14,14 @@ enclosure:
     audio/mpeg
 
 ---
+
 In der vierten Episode berichten wir anfangs mal wieder kurz über aktuelle Neuigkeiten, um dann nochmal ausführlich über OpenID zu sprechen. Diesmal haben wir Thomas Huhn - seines Zeichens Gründer des deutschen OpenID Providers <a href="http://meinguter.name">meinguter.name</a>, dem <a href="http://openiddirectory.com/">OpenID Directoy</a> und der Initiative <a href="http://spreadopenid.org/">SpreadOpenID</a>.
 Wir haben uns diesmal wesentlich mehr Zeit genommen als sonst und haben glaub ich immer noch das Gefühl, noch wesentlich mehr zu OpenID besprechen zu können. Also wird es da sicherlich noch mehr Episoden in Zukunft zu geben. Feedback wie immer sehr sehr gerne gesehen!
 
-http://openwebpodcast.de/mp3/openweb04.mp3
+<audio controls>
+  <source src="http://openwebpodcast.de/mp3/openweb04.mp3" type="audio/mpeg">
+  Ihr Browser unterstützt diesen Audio-Player nicht.
+</audio>
 
 Die Links zur Sendung <a href="http://openweb.mixxt.de/networks/wiki/index.episode-4">findet ihr hier</a>!
 

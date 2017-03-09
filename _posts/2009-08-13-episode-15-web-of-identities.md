@@ -24,7 +24,10 @@ Weitere im Podcast genannte Links:
 </ul>
 Und hier der Podcast:
 
-http://openwebpodcast.de/mp3/openweb15.mp3
+<audio controls>
+  <source src="http://openwebpodcast.de/mp3/openweb15.mp3" type="audio/mpeg">
+  Ihr Browser unterstützt diesen Audio-Player nicht.
+</audio>
 <small>Länge: 1:26h (72,8 MB)</small>
 <h3>News</h3>
 <ul>

@@ -31,7 +31,10 @@ Folge 14 besteht nochmal aus ner ganze Menge News:
 
 Viel Spaß beim hören…
 
-http://openwebpodcast.de/mp3/openweb14.mp3
+<audio controls>
+  <source src="http://openwebpodcast.de/mp3/openweb14.mp3" type="audio/mpeg">
+  Ihr Browser unterstützt diesen Audio-Player nicht.
+</audio>
 
 Die Links zur Sendung <a href="http://openweb.mixxt.de/networks/wiki/index.episode-14">findet ihr hier</a>!
 

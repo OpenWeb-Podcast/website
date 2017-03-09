@@ -16,7 +16,10 @@ enclosure:
 ---
 In der fünften Episode berichten wir anfangs mal wieder kurz über aktuelle Neuigkeiten, um dann ausführlich über Microformats zu sprechen. Wir geben eine kleine Einführung, reden über Anwendungsgebiete, den Status-Quo, gehen auf Kritikpunkte ein, ziehen zum Schluss ein Fazit und schauen ein wenig in die Zukunft.
 
-http://openwebpodcast.de/mp3/openweb05.mp3
+<audio controls>
+  <source src="http://openwebpodcast.de/mp3/openweb05.mp3" type="audio/mpeg">
+  Ihr Browser unterstützt diesen Audio-Player nicht.
+</audio>
 
 Die Links zur Sendung <a href="http://openweb.mixxt.de/networks/wiki/index.episode-5">findet ihr hier</a>!
 

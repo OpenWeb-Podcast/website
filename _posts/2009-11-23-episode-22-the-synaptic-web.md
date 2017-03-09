@@ -18,7 +18,10 @@ enclosure:
 
 In der aktuellen Folge beschäftigen wir (<a href="http://mrtopf.de">Christian</a> und <a href="http://notizblog.org/">Matthias</a>) uns hauptsächlich mit der <em><a href="http://www.synapticweb.org">Synaptic Web</a></em>-Idee und wie man sie technisch umsetzen könnte: <a href="http://www.salmon-protocol.org/">Salmon-Protokoll</a>.
 
-http://openwebpodcast.de/mp3/owp22.mp3
+<audio controls>
+  <source src="http://openwebpodcast.de/mp3/openweb22.mp3" type="audio/mpeg">
+  Ihr Browser unterstützt diesen Audio-Player nicht.
+</audio>
 <small>Länge: 0:48h (42.3 MB), <a href="http://openwebpodcast.de/mp3/owp22.mp3">Download MP3</a></small>
 
 <h3>Shownotes:</h3>

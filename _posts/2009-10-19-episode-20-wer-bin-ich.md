@@ -18,7 +18,10 @@ Nachdem der <a href="http://blog.openwebpodcast.de/187/owp19/">letzte Podcast</a
 
 Wir gehen dann noch im Detail auf die entsprechenden Standards ein, die eine Rolle spielen.
 
-http://openwebpodcast.de/mp3/openweb20.mp3
+<audio controls>
+  <source src="http://openwebpodcast.de/mp3/openweb20.mp3" type="audio/mpeg">
+  Ihr Browser unterstützt diesen Audio-Player nicht.
+</audio>
 <small>Länge: 1:13h (64,8 MB), <a href="http://openwebpodcast.de/mp3/openweb20.mp3">Download MP3</a></small>
 <h3>News</h3>
 <ul>

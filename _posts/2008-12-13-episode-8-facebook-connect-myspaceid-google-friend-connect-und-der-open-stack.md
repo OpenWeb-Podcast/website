@@ -16,7 +16,10 @@ enclosure:
 ---
 In der achten Episode dreht sich alles um die News der letzten Woche: Facebook Connect, Google Friend Connect und MySpaceID. Wir diskutieren, was all diese Projekte bedeuten und wie sie sich mit dem Open Stack vergleichen lassen.
 
-http://openwebpodcast.de/mp3/openweb08.mp3
+<audio controls>
+  <source src="http://openwebpodcast.de/mp3/openweb08.mp3" type="audio/mpeg">
+  Ihr Browser unterstützt diesen Audio-Player nicht.
+</audio>
 
 Die Links zur Sendung <a href="/networks/wiki/index.episode-8">findet ihr hier</a>!
 

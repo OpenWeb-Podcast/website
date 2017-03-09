@@ -18,7 +18,10 @@ enclosure:
 
 Viel Spaß beim hören:
 
-http://openwebpodcast.de/mp3/openweb26.mp3
+<audio controls>
+  <source src="http://openwebpodcast.de/mp3/openweb26.mp3" type="audio/mpeg">
+  Ihr Browser unterstützt diesen Audio-Player nicht.
+</audio>
 <small>Länge: 0:57h (49.8 MB), <a href="http://openwebpodcast.de/mp3/openweb26.mp3">Download MP3</a></small>
 
 (weiter unten gibt es auch noch zwei Videos)

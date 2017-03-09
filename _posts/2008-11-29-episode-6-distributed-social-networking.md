@@ -16,7 +16,10 @@ enclosure:
 ---
 In der sechsten Episode berichten wir anfangs mal wieder kurz über aktuelle Neuigkeiten, um dann ausführlich über "Distributed Social Networking" zu sprechen. Diesmal haben wir <a href="http://olbertz.de/blog/">Dirk Olbertz</a> von <a href="http://noserub.com">Noserub</a> zu Gast.
 
-http://openwebpodcast.de/mp3/openweb06.mp3
+<audio controls>
+  <source src="http://openwebpodcast.de/mp3/openweb06.mp3" type="audio/mpeg">
+  Ihr Browser unterstützt diesen Audio-Player nicht.
+</audio>
 
 Die Links zur Sendung <a href="http://openweb.mixxt.de/networks/wiki/index.episode-6">findet ihr hier</a>!
 

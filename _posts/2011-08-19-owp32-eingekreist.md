@@ -14,7 +14,10 @@ enclosure:
 ---
 Nun geht es wieder los mit dem Open Web Podcast: Neues Logo, ein bisschen neue Technik, neuer Livestream und nicht mehr so technisch! Los geht's!
 
-http://openwebpodcast.de/mp3/openweb32.mp3
+<audio controls>
+  <source src="http://openwebpodcast.de/mp3/openweb32.mp3" type="audio/mpeg">
+  Ihr Browser unterstützt diesen Audio-Player nicht.
+</audio>
 <small>Länge: 59m, <a href="http://openwebpodcast.de/mp3/openweb32.mp3">Download MP3</a></small>
 <h2>Termine</h2>
 <a href="http://www.froscon.de/">FrOSCon 6: 20./21.8. 2011 in St. Augustin</a>

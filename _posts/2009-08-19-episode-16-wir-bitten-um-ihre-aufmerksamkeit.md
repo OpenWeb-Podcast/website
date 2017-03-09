@@ -18,7 +18,10 @@ Diesmal dreht sich alles um die Aufmerksamkeit, und zwar die eigene. Es geht nä
 
 Dazu haben wir Axel Quack eingeladen, der uns einen Überblick verschaffen will.
 
-http://openwebpodcast.de/mp3/openweb16.mp3
+<audio controls>
+  <source src="http://openwebpodcast.de/mp3/openweb16.mp3" type="audio/mpeg">
+  Ihr Browser unterstützt diesen Audio-Player nicht.
+</audio>
 <small>Länge: 1:25h (71,6 MB), <a href="http://openwebpodcast.de/mp3/openweb16.mp3">Download MP3</a></small>
 <h2>Shownotes</h2>
 <ul>

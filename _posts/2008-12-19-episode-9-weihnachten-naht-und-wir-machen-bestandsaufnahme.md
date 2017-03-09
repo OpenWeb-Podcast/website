@@ -16,7 +16,10 @@ enclosure:
 ---
 Es weihnachtet sehr. Dies mag euch vielleicht beim Blick auf die Fußgängerzonen der Republik aufgefallen sein. Bei uns triggerte dies den Reflex eine Jahresrückblicks- und ausblicksfolge zu machen. Und hier ist sie! Extra lang, da extra lange Pause bis zur nächsten Folge (nehmen wir am 8. Januar auf).
 
-http://openwebpodcast.de/mp3/openweb09.mp3
+<audio controls>
+  <source src="http://openwebpodcast.de/mp3/openweb09.mp3" type="audio/mpeg">
+  Ihr Browser unterstützt diesen Audio-Player nicht.
+</audio>
 
 Die Links zur Sendung <a href="http://openweb.mixxt.de/networks/wiki/index.episode-9">findet ihr hier</a>! Und wenn nicht, tragt sie doch bitte einfach nach!
 

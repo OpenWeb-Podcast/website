@@ -16,7 +16,10 @@ enclosure:
 ---
 In der dritten Episode berichten wir anfangs kurz darüber, dass Jay Parikh (Ning) und Joseph Smarr (Plaxo) ins Board der OpenSocial Foundation gewählt wurden, um dann ausführlich über OAuth zu sprechen. Im ersten Teil der Sendung gibt es eine eher allgemeine Einführung zu OAuth (Problem & Lösung) und im zweiten Teil geht Christian im Detail auf den Workflow von OAuth ein.
 
-http://openwebpodcast.de/mp3/openweb03.mp3
+<audio controls>
+  <source src="http://openwebpodcast.de/mp3/openweb03.mp3" type="audio/mpeg">
+  Ihr Browser unterstützt diesen Audio-Player nicht.
+</audio>
 
 Die Links zur Sendung <a href="http://openweb.mixxt.de/wiki/index.episode-3">findet ihr hier</a>!
 

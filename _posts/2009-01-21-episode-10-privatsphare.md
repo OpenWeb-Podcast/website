@@ -17,7 +17,10 @@ enclosure:
 Willkommen im Jahr 2009 sagt der Open Web Podcast! Wir starten aufgrund Terminschwierigkeiten etwas spät und auch nur zu zweit, aber dennoch mit einem wichtigen Thema: Die Privatsphäre.
 Christian berichtet vom 25igsten Chaos Communication Congress des Chaos Computer Club und Matthias nimmt sich der Twitter-Phishing-Problematik an.
 
-http://openwebpodcast.de/mp3/openweb10.mp3
+<audio controls>
+  <source src="http://openwebpodcast.de/mp3/openweb10.mp3" type="audio/mpeg">
+  Ihr Browser unterstützt diesen Audio-Player nicht.
+</audio>
 
 Die Links zur Sendung <a href="http://openweb.mixxt.de/networks/wiki/index.episode-10">findet ihr hier</a>! Und wenn nicht, tragt sie doch bitte einfach nach!
 

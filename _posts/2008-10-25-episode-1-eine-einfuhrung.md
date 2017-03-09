@@ -12,11 +12,14 @@ enclosure:
     http://openwebpodcast.de/mp3/openweb01.mp3
     37792084
     audio/mpeg
-    
+
 ---
 In der ersten Episode stellen wir uns nicht nur vor, sondern versuchen vor allem eine Einführung in das Thema an sich zu bieten. Was ist das Problem, warum haben wir das Problem, was gibt es für grundsätzliche Lösungsansätze und wer ist bereits in diesem Umfeld aktiv tätig?
 
-http://openwebpodcast.de/mp3/openweb01.mp3
+<audio controls>
+  <source src="http://openwebpodcast.de/mp3/openweb01.mp3" type="audio/mpeg">
+  Ihr Browser unterstützt diesen Audio-Player nicht.
+</audio>
 
 Die Links zur Sendung <a href="http://openweb.mixxt.de/wiki/index.episode-1">findet ihr hier</a>!
 

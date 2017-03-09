@@ -17,7 +17,10 @@ aktt_notify_twitter:
 
 Viel Spaß beim hören :)
 
-http://openwebpodcast.de/mp3/openweb33.mp3
+<audio controls>
+  <source src="http://openwebpodcast.de/mp3/openweb33.mp3" type="audio/mpeg">
+  Ihr Browser unterstützt diesen Audio-Player nicht.
+</audio>
 <small>Länge: 56m, <a href="http://openwebpodcast.de/mp3/openweb33.mp3">Download MP3</a></small>
 
 <strong>Facebook</strong>

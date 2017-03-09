@@ -13,15 +13,13 @@ enclosure:
     35834824
     audio/mpeg
 
-  - |
-    http://openwebpodcast.de/mp3/openweb01.mp3
-    37792084
-    audio/mpeg
-
 ---
 In der zweiten Episode berichten wir anfangs kurz darüber dass Google und Microsoft jetzt OpenID Provider geworden sind und erzählen was zur Yahoo! Open Strategy, um dann ausführlich auf das Thema OpenID einzugehen. Was ist das Problem, wie sieht die Lösung aus, wie bekommt man eine OpenID, wie benutzt man eine OpenID und was ist hinsichtlich der Sicherheit zu beachten.
 
-http://openwebpodcast.de/mp3/openweb01.mp3
+<audio controls>
+  <source src="http://openwebpodcast.de/mp3/openweb02.mp3" type="audio/mpeg">
+  Ihr Browser unterstützt diesen Audio-Player nicht.
+</audio>
 
 Die Links zur Sendung <a href="http://openweb.mixxt.de/networks/wiki/index.episode-2">findet ihr hier</a>!
 

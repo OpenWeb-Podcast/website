@@ -18,7 +18,10 @@ In der elften Episode reden Matthias und ich über einige relevante News der let
 
 Aber ich denke die News sind allesamt sehr spannend und damit absolut wert gehört zu werden ;)
 
-http://openwebpodcast.de/mp3/openweb11.mp3
+<audio controls>
+  <source src="http://openwebpodcast.de/mp3/openweb11.mp3" type="audio/mpeg">
+  Ihr Browser unterstützt diesen Audio-Player nicht.
+</audio>
 
 Die Links zur Sendung <a href="http://openweb.mixxt.de/networks/wiki/index.episode-11">findet ihr hier</a>!
 
