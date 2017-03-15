@@ -8,12 +8,11 @@ layout: post
 permalink: /37/episode-1-eine-einfuhrung/
 published: true
 enclosure:
-  - |
-    http://openwebpodcast.de/mp3/openweb01.mp3
-    37792084
-    audio/mpeg
-
+  - http://openwebpodcast.de/mp3/openweb01.mp3
+  - 37792084
+  - audio/mpeg
 ---
+
 In der ersten Episode stellen wir uns nicht nur vor, sondern versuchen vor allem eine Einführung in das Thema an sich zu bieten. Was ist das Problem, warum haben wir das Problem, was gibt es für grundsätzliche Lösungsansätze und wer ist bereits in diesem Umfeld aktiv tätig?
 
 <audio controls>

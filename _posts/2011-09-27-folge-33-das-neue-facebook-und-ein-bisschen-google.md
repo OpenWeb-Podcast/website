@@ -5,78 +5,64 @@ author: Matthias Pfefferle
 post_date: 2011-09-27 00:22:30
 post_excerpt: ""
 layout: post
-permalink: /409/folge-33-das-neue-facebook-und-ein-bisschen-google/
+permalink: 409/folge-33-das-neue-facebook-und-ein-bisschen-google/
 published: true
 enclosure:
-  - >
-    http://openwebpodcast.de/mp3/openweb33.mp3
-aktt_notify_twitter:
-  - 'yes'
+  - http://openwebpodcast.de/mp3/openweb33.mp3
+  - 1234
+categories:
+  - Podcast
+tags:
+  - API
+  - Facebook
+  - Google
+  - Timeline
 ---
-...und weiter geht's! Heute mal als <em>ClosedWebPodcast</em> zu den neuen Features von Facebook und Google...
 
-Viel Spaß beim hören :)
+...und weiter geht's! Heute mal als _ClosedWebPodcast_ zu den neuen Features von Facebook und Google... Viel Spaß beim hören :)
 
 <audio controls>
   <source src="http://openwebpodcast.de/mp3/openweb33.mp3" type="audio/mpeg">
   Ihr Browser unterstützt diesen Audio-Player nicht.
 </audio>
-<small>Länge: 56m, <a href="http://openwebpodcast.de/mp3/openweb33.mp3">Download MP3</a></small>
 
-<strong>Facebook</strong>
-<ul>
-  <li><a href="http://www.facebook.com/blog.php?post=10150278932602131">Smart Lists</a></li>
-  <li><a href="http://allfacebook.de/news/live-ticker-nun-fur-sehr-viele-facebook-nutzer-online">Live Ticker</a></li>
-  <li><a href="http://www.facebook.com/about/subscribe">Subscribe-Button</a></li>
-  <li>f8
-    <ul>
-      <li><a href="http://www.facebook.com/about/timeline">Timeline</a></li>
-      <li><a href="http://allfacebook.de/connect/so-funktioniert-der-neue-open-graph-fur-entwickler">OpenGraph V2</a></li>
-      <li>Neue und eigene "Things"/"Verbs" erstellen</li>
-      <li><a href="http://www.nytimes.com/2011/09/19/business/media/facebook-is-expected-to-unveil-media-sharing-service.html">"App Scrobling" -> Neue Buttons</a></li>
-    </ul>
-</li>
-    	<li>Strategie?
-<ul>
+<small>Länge: 56m, [Download MP3](http://openwebpodcast.de/mp3/openweb33.mp3)</small>
 
-	<li>Wegen G+?</li>
-    	<li>Semantic Web?</li>
-    	<li>Motivation</li>
-    	<li>Ontologien</li>
-</ul>
-</li>
-</ul>
+**Facebook**
+* [Smart Lists](http://www.facebook.com/blog.php?post=10150278932602131)
+* [Live Ticker](http://allfacebook.de/news/live-ticker-nun-fur-sehr-viele-facebook-nutzer-online)
+* [Subscribe-Button](http://www.facebook.com/about/subscribe)
+* f8
+  * [Timeline](http://www.facebook.com/about/timeline)
+  * [OpenGraph V2](http://allfacebook.de/connect/so-funktioniert-der-neue-open-graph-fur-entwickler)
+  * Neue und eigene "Things"/"Verbs" erstellen
+  * ["App Scrobling" -> Neue Buttons](http://www.nytimes.com/2011/09/19/business/media/facebook-is-expected-to-unveil-media-sharing-service.html)
+* Strategie?
+  * Wegen G+?
+  * Semantic Web?
+  * Motivation
+  * Ontologien
 
-<strong>Google+</strong>
-<ul>
-    	<li>für alle offen</li>
-    	<li><a href="https://plus.google.com/102034052532213921839/posts/JzKPakBwHQR">Neue iPhone App</a></li>
-    	<li>Suche</li>
-    	<li><a href="http://googleblog.blogspot.com/2011/09/google-92-93-94-95-96-97-98-99-100.html">Hangouts with Extras</a></li>
-    	<li>APIs</li>
-<ul>
-	<li>Read only API</li>
-    	<li>Hangouts API/Apps/Widgets</li>
-</ul>
-</ul>
+**Google+**
 
-<strong>Google+ API</strong>
+* für alle offen
+* [Neue iPhone App](https://plus.google.com/102034052532213921839/posts/JzKPakBwHQR)
+* Suche
+* [Hangouts with Extras](http://googleblog.blogspot.com/2011/09/google-92-93-94-95-96-97-98-99-100.html)
+* APIs
+* Read only API
+* Hangouts API/Apps/Widgets
 
-Link: <a href="https://developers.google.com/+/">https://developers.google.com/+/</a>
+**Google+ API**
 
-<ul>
-    	<li>Zugriff per API Key oder per OAuth 2.0, letzteres kann mehr (Zugriff auf private Daten)</li>
-<ul>
-	<li>API-Key und Co kann man sich hier holen: <a href="https://code.google.com/apis/console/b/0/">https://code.google.com/apis/console/b/0/</a></li>
-</ul>
-    	<li>Basis-Features: Feld-Selektionen, Batching usw.</li>
-    	<li>Zugriff auf das Profil: <code>https://www.googleapis.com/plus/v1/people/userId</code></li>
-<ul>
-    	<li>URLs, Orgs, PlacesLived usw.</li>
-    	<li>geht aber nur mit Key!</li>
-</ul>
-    	<li>People: <code>https://developers.google.com/+/api/latest/people</code></li>
-    	<li>Activities: <code>https://developers.google.com/+/api/latest/activities</code></li>
-    	<li>Kurz: Einfach zu nutzen, alles JSON, ähnlich FB Graph API, aber weniger Content Types.</li>
+Link: [https://developers.google.com/+/](https://developers.google.com/+/)
 
-</ul>
+* Zugriff per API Key oder per OAuth 2.0, letzteres kann mehr (Zugriff auf private Daten)
+* API-Key und Co kann man sich hier holen: [https://code.google.com/apis/console/b/0/](https://code.google.com/apis/console/b/0/)
+* Basis-Features: Feld-Selektionen, Batching usw.
+* Zugriff auf das Profil: `https://www.googleapis.com/plus/v1/people/userId`
+* URLs, Orgs, PlacesLived usw.
+* geht aber nur mit Key!
+* People: `https://developers.google.com/+/api/latest/people`
+* Activities: `https://developers.google.com/+/api/latest/activities`
+* Kurz: Einfach zu nutzen, alles JSON, ähnlich FB Graph API, aber weniger Content Types.
