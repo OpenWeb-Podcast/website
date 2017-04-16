@@ -14,7 +14,7 @@ layout: null
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <image>
-      <url>http://openwebpodcast.de/wp-content/uploads/2015/08/cropped-owplogo-512x512-32x32.png</url>
+      <url>http://openwebpodcast.de/uploads/2015/08/cropped-owplogo-512x512-32x32.png</url>
       <title>Der deutsche OpenWeb-Podcast</title>
       <link>http://openwebpodcast.de</link>
       <width>32</width>

@@ -14,7 +14,7 @@ enclosure:
     audio/mpeg
 
 ---
-<img src="http://blog.openwebpodcast.de/wp-content/uploads/2010/03/xmpp.png" alt="xmpp" title="xmpp" width="74" height="76" class="alignright size-full wp-image-321" />Vor ein paar Wochen wurde auf der <a href="http://fosdem.org/2010/">FOSDEM</a> erstmals das Projekt <em><a href="http://onesocialweb.org/">OneSocialWeb</a></em> vorgestellt: ein <em>free, open, and decentralized social</em> Network basierend auf XMPP. <a href="http://mrtopf.de">Christian</a> und ich (<a href="http://notizblog.org/">Matthias</a>) haben uns für dieses Thema mal wieder tatkräftige Unterstützung geholt: <a href="http://identi.ca/rkallensee">Raphael Kallensee</a> arbeite als Web-Entwickler in Mannheimer und bloggt unter <a href="http://raphael.kallensee.name/">raphael.kallensee.name</a>.
+<img src="http://blog.openwebpodcast.de/uploads/2010/03/xmpp.png" alt="xmpp" title="xmpp" width="74" height="76" class="alignright size-full wp-image-321" />Vor ein paar Wochen wurde auf der <a href="http://fosdem.org/2010/">FOSDEM</a> erstmals das Projekt <em><a href="http://onesocialweb.org/">OneSocialWeb</a></em> vorgestellt: ein <em>free, open, and decentralized social</em> Network basierend auf XMPP. <a href="http://mrtopf.de">Christian</a> und ich (<a href="http://notizblog.org/">Matthias</a>) haben uns für dieses Thema mal wieder tatkräftige Unterstützung geholt: <a href="http://identi.ca/rkallensee">Raphael Kallensee</a> arbeite als Web-Entwickler in Mannheimer und bloggt unter <a href="http://raphael.kallensee.name/">raphael.kallensee.name</a>.
 
 Viel Spaß beim hören:
 

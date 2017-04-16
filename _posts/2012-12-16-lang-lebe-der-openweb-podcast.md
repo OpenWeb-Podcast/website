@@ -11,7 +11,7 @@ published: true
 
 Im Juni sind Christian und ich zufällig mit [David Maciejewski](http://macx.de) von [Technikwürze](http://technikwuerze.de) ins [Gespräch](https://plus.google.com/u/0/101497190553915574028/posts/9C9CkCBVbvc) gekommen:
 
-![Google+ Konversation](http://openwebpodcast.de/wp-content/uploads/2012/12/16.12.12-1853-Bildschirmkopie.png)
+![Google+ Konversation](http://openwebpodcast.de/uploads/2012/12/16.12.12-1853-Bildschirmkopie.png)
 
 Da beide Podcasts über die Zeit etwas eingeschlafen sind, haben wir uns (virtuell) zusammen gesetzt und uns entschieden, beide Projekte zusammen zu legen und zukünftig nur noch einen Podcast zu betreiben, diesen dafür aber wieder etwas häufiger. Da die Technikwürze älter ist, mehr Hörer hat und ein breiteres Spektrum bedient, wird der OpenWeb-Podcast mit der aktuellen Folge ([Technikwürze 187 - Metainformationen und Semantisches Web](http://technikwuerze.de/podcast/technikwuerze-187-metainformationen-und-semantisches-web/)) in der Technikwürze aufgehen.
 
