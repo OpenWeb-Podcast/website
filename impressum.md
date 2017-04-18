@@ -9,10 +9,12 @@ permalink: /impressum/
 published: true
 
 ---
-Matthias Pfefferle
 
-Tannenweg 21
-76275 Ettlingen, BW, Germany
+# Impressum
+
+Matthias Pfefferle<br />
+Tannenweg 21<br />
+76275 Ettlingen, BW, Germany<br />
 
 Tel.: +49 6203 4956878
 

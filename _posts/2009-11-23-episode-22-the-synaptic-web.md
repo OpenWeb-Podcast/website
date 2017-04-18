@@ -12,7 +12,6 @@ enclosure:
     http://openwebpodcast.de/mp3/owp22.mp3
     44372096
     audio/mpeg
-
 ---
 <strong>Khris Loux (CEO von <a href="http://www.js-kit.com">JS-KIT</a>) hat einen neuen Begriff geprägt: das <em>Synaptic Web</em>, ein Internet voll von Nervenzellen die, verbunden durch Synapsen, permanent und in Echtzeit Informationen austauschen.</strong>
 

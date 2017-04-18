@@ -5,16 +5,18 @@ archive: false
 post_class: post-template
 ---
 
-<header class="main-header post-head {% if page.cover %}" style="background-image: url({{ page.cover }}) {%else%}no-cover{% endif %}">
-    <nav class="main-nav {% if page.cover %} overlay {% endif %} clearfix">
-        <a class="back-button icon-arrow-left" href="{{ site.baseurl }}">Home</a>
-        <a class="subscribe-button icon-feed" href="{{ site.baseurl }}feed/">Subscribe</a>
+<header class="main-header post-head {% if page.cover %}" style="background-image: url({{page.cover}}){%else%}no-cover{%endif%}">
+    <nav class="main-nav {{#if image}}overlay{{/if}} clearfix">
+        {%if site.logo%}<a class="blog-logo" href="{{ site.baseurl }}"><img src="{{site.logo}}" alt="{{site.name}}" /></a>{%endif%}
+        {%if site.navigation %}
+            <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
+        {% endif %}
     </nav>
 </header>
 
 <main class="content" role="main">
 
-    <article class="post">
+    <article class="post page">
 
         <header class="post-header">
             <h1 class="post-title">{{ page.title }}</h1>
@@ -25,25 +27,6 @@ post_class: post-template
                 {% endif %}
             </section>
         </header>
-
-<!--         <header class="post-header">
-            <a id="blog-logo" href="{{site.url}}">
-                {% if site.logo %}
-                    <img src="{{site.logo}}" alt="{{ site.name }}" />
-                {% else %}
-                    <span class="blog-title">{{ site.name }}</span>
-                {%endif%}
-            </a>
-        </header> -->
-
-        <!-- <span class="post-meta">
-            <time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time>
-            {% if page.categories.size > 0 %}
-                {{ page.categories | array_to_sentence_string | prepend: 'on ' }}
-            {% endif %}
-        </span> -->
-
-        <!-- <h1 class="post-title">{{ page.title }}</h1> -->
 
         <section class="post-content">
             {{content}}
@@ -82,3 +65,22 @@ post_class: post-template
     </article>
 
 </main>
+
+<aside class="read-next">
+  {%if page.next%}
+  <a class="read-next-story {%if page.next.cover%}" style="background-image: url({{page.next.cover}}){%else%}no-cover{%endif%}" href="{{page.next.url}}">
+      <section class="post">
+          <h2>{{page.next.title}}</h2>
+          <p>{{ page.next.excerpt | truncatewords: 19 | strip_html}}&hellip;</p>
+      </section>
+  </a>
+  {%endif%}
+  {%if page.previous%}
+  <a class="read-next-story prev {%if page.previous.cover%}" style="background-image: url({{page.previous.cover}}){%else%}no-cover{%endif%}" href="{{page.previous.url}}">
+      <section class="post">
+          <h2>{{page.previous.title}}</h2>
+          <p>{{ page.previous.excerpt | truncatewords: 19 | strip_html}}&hellip;</p>
+      </section>
+  </a>
+  {%endif%}
+</aside>
