@@ -21,9 +21,8 @@ Es weihnachtet sehr. Dies mag euch vielleicht beim Blick auf die Fußgängerzone
   Ihr Browser unterstützt diesen Audio-Player nicht.
 </audio>
 
-Die Links zur Sendung <a href="http://openweb.mixxt.de/networks/wiki/index.episode-9">findet ihr hier</a>! Und wenn nicht, tragt sie doch bitte einfach nach!
+Die Links zur Sendung [findet ihr hier](http://openweb.mixxt.de/networks/wiki/index.episode-9)! Und wenn nicht, tragt sie doch bitte einfach nach! **Den Podcast bekommen**:
 
-<strong>Den Podcast bekommen</strong>:
-<ul><li><a href="http://openwebpodcast.de/mp3/openweb09.mp3">Download MP3</a></li>
-<li><a href="http://feeds.feedburner.com/openwebcast">RSS Feed</a></li>
-<li><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=294732929">iTunes</a></li></ul>
+*   [Download MP3](http://openwebpodcast.de/mp3/openweb09.mp3)
+*   [RSS Feed](http://feeds.feedburner.com/openwebcast)
+*   [iTunes](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=294732929)

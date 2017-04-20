@@ -13,9 +13,10 @@ enclosure:
     44372096
     audio/mpeg
 ---
-<strong>Khris Loux (CEO von <a href="http://www.js-kit.com">JS-KIT</a>) hat einen neuen Begriff geprägt: das <em>Synaptic Web</em>, ein Internet voll von Nervenzellen die, verbunden durch Synapsen, permanent und in Echtzeit Informationen austauschen.</strong>
 
-In der aktuellen Folge beschäftigen wir (<a href="http://mrtopf.de">Christian</a> und <a href="http://notizblog.org/">Matthias</a>) uns hauptsächlich mit der <em><a href="http://www.synapticweb.org">Synaptic Web</a></em>-Idee und wie man sie technisch umsetzen könnte: <a href="http://www.salmon-protocol.org/">Salmon-Protokoll</a>.
+**Khris Loux (CEO von [JS-KIT](http://www.js-kit.com)) hat einen neuen Begriff geprägt: das _Synaptic Web_, ein Internet voll von Nervenzellen die, verbunden durch Synapsen, permanent und in Echtzeit Informationen austauschen.**
+
+In der aktuellen Folge beschäftigen wir ([Christian](http://mrtopf.de) und [Matthias](http://notizblog.org/)) uns hauptsächlich mit der _[Synaptic Web](http://www.synapticweb.org)_-Idee und wie man sie technisch umsetzen könnte: [Salmon-Protokoll](http://www.salmon-protocol.org/).
 
 <audio controls>
   <source src="http://openwebpodcast.de/mp3/openweb22.mp3" type="audio/mpeg">
@@ -23,18 +24,16 @@ In der aktuellen Folge beschäftigen wir (<a href="http://mrtopf.de">Christian</
 </audio>
 <small>Länge: 0:48h (42.3 MB), <a href="http://openwebpodcast.de/mp3/owp22.mp3">Download MP3</a></small>
 
-<h3>Shownotes:</h3>
-<ul>
-<li><a href="http://synapticweb.org/">Synaptic Web</a></li>
-<li><a href="http://www.salmon-protocol.org/">Salmon Protocol</a></li>
-<li><a href="http://www.readwriteweb.com/archives/salmon_protocol_for_distributed_aggregated_content.php">RWW: Salmon Protocol for Distributed, Real-Time Content Expands with Open-Source Project</a></li>
-<li><a href="http://www.readwriteweb.com/archives/echo_creator_khris_loux_on_the_ties_that_bind_the.php">RWW: Echo Creator Khris Loux on the Ties That Bind the Real-Time Web</a></li>
-<li><a href="http://code.google.com/p/webfinger/">Webfinger</a></li>
-</ul>
+### Shownotes:
 
-<h3>News:</h3>
-<ul>
-<li><a href="http://blog.dataportability.org/2009/11/18/data-portability-membership-registration-and-board-elections/">DataPortability Steering Group Elections</a></li>
-<li><a href="http://groups.google.com/group/oauth-wrap-wg">OAuth WRAP</a></li>
-<li><a href="http://openwebfoundation.org/legal/">Open Web Foundation Agreement</a></li>
-</ul>
+*   [Synaptic Web](http://synapticweb.org/)
+*   [Salmon Protocol](http://www.salmon-protocol.org/)
+*   [RWW: Salmon Protocol for Distributed, Real-Time Content Expands with Open-Source Project](http://www.readwriteweb.com/archives/salmon_protocol_for_distributed_aggregated_content.php)
+*   [RWW: Echo Creator Khris Loux on the Ties That Bind the Real-Time Web](http://www.readwriteweb.com/archives/echo_creator_khris_loux_on_the_ties_that_bind_the.php)
+*   [Webfinger](http://code.google.com/p/webfinger/)
+
+### News:
+
+*   [DataPortability Steering Group Elections](http://blog.dataportability.org/2009/11/18/data-portability-membership-registration-and-board-elections/)
+*   [OAuth WRAP](http://groups.google.com/group/oauth-wrap-wg)
+*   [Open Web Foundation Agreement](http://openwebfoundation.org/legal/)

@@ -16,18 +16,17 @@ enclosure:
 ---
 Folge 14 besteht nochmal aus ner ganze Menge News:
 
-<ul><li><a href="http://kantarainitiative.org">Kantara Initiative</a></li>
-<li><a href="http://kantarainitiative.org/confluence/display/WGUMA/Charter">WGUMA - ProtectServe</a></li>
-<li><a href="http://www.readwriteweb.com/archives/web_of_identities_making_machine-accessible_people_data.php">Blog Post von Alex Korth on Web of Identities</a></li>
-<li><a href="http://www.techcrunch.com/2009/07/14/in-our-inbox-hundreds-of-confidential-twitter-documents/">Twitter Security Problem</a></li>
-<li><a href="http://blogs.law.harvard.edu/doc/2009/07/07/a-good-man-is-hard-to-lose/">Nick Givotovsky</a></li>
-<li><a href="http://blog.vodafone.de/2009/07/14/reaktion-auf-livepk-teil-3-zugangserschwerung-kinderpornographie/?cp=5#comment-265">Zensursula und Vodafone</a></li>
-<li><a href="http://pubsubhubbub.appspot.com/">pubsubhubbub</a></li>
-<li><a href="http://news.zdnet.com/2100-9595_22-319527.html">Google Apps werden OpenID-Provider</a></li>
-<li><a href="http://dev.w3.org/html5/rdfa/rdfa-module.html">Noch eine Chance für RDFa (HTML5)</a></li>
-</ul>
+*   [Kantara Initiative](http://kantarainitiative.org)
+*   [WGUMA - ProtectServe](http://kantarainitiative.org/confluence/display/WGUMA/Charter)
+*   [Blog Post von Alex Korth on Web of Identities](http://www.readwriteweb.com/archives/web_of_identities_making_machine-accessible_people_data.php)
+*   [Twitter Security Problem](http://www.techcrunch.com/2009/07/14/in-our-inbox-hundreds-of-confidential-twitter-documents/)
+*   [Nick Givotovsky](http://blogs.law.harvard.edu/doc/2009/07/07/a-good-man-is-hard-to-lose/)
+*   [Zensursula und Vodafone](http://blog.vodafone.de/2009/07/14/reaktion-auf-livepk-teil-3-zugangserschwerung-kinderpornographie/?cp=5#comment-265)
+*   [pubsubhubbub](http://pubsubhubbub.appspot.com/)
+*   [Google Apps werden OpenID-Provider](http://news.zdnet.com/2100-9595_22-319527.html)
+*   [Noch eine Chance für RDFa (HTML5)](http://dev.w3.org/html5/rdfa/rdfa-module.html)
 
-...und <a href="http://mrtopf.de/blog">Christian</a> und <a href="http://notizblog.org">ich</a> sprechen ein wenig über DataPortability und die Vorteile für Seiten- bzw. Community-Betreiber.
+...und [Christian](http://mrtopf.de/blog) und [ich](http://notizblog.org) sprechen ein wenig über DataPortability und die Vorteile für Seiten- bzw. Community-Betreiber.
 
 Viel Spaß beim hören…
 
@@ -36,9 +35,8 @@ Viel Spaß beim hören…
   Ihr Browser unterstützt diesen Audio-Player nicht.
 </audio>
 
-Die Links zur Sendung <a href="http://openweb.mixxt.de/networks/wiki/index.episode-14">findet ihr hier</a>!
+Die Links zur Sendung [findet ihr hier](http://openweb.mixxt.de/networks/wiki/index.episode-14)! **Den Podcast bekommen**:
 
-<strong>Den Podcast bekommen</strong>:
-<ul><li><a href="http://openwebpodcast.de/mp3/openweb14.mp3">Download MP3</a></li>
-<li><a href="http://feeds.feedburner.com/openwebcast">RSS Feed</a></li>
-<li><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=294732929">iTunes</a></li></ul>
+*   [Download MP3](http://openwebpodcast.de/mp3/openweb14.mp3)
+*   [RSS Feed](http://feeds.feedburner.com/openwebcast)
+*   [iTunes](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=294732929)

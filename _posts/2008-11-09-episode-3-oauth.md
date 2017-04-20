@@ -21,9 +21,8 @@ In der dritten Episode berichten wir anfangs kurz darüber, dass Jay Parikh (Nin
   Ihr Browser unterstützt diesen Audio-Player nicht.
 </audio>
 
-Die Links zur Sendung <a href="http://openweb.mixxt.de/wiki/index.episode-3">findet ihr hier</a>!
+Die Links zur Sendung [findet ihr hier](http://openweb.mixxt.de/wiki/index.episode-3)! **Den Podcast bekommen**:
 
-<strong>Den Podcast bekommen</strong>:
-<ul><li><a href="http://openwebpodcast.de/mp3/openweb03.mp3">Download MP3</a></li>
-<li><a href="http://feeds.feedburner.com/openwebcast">RSS Feed</a></li>
-<li><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=294732929">iTunes</a></li></ul>
+*   [Download MP3](http://openwebpodcast.de/mp3/openweb03.mp3)
+*   [RSS Feed](http://feeds.feedburner.com/openwebcast)
+*   [iTunes](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=294732929)
