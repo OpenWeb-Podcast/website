@@ -70,7 +70,7 @@ post_class: post-template
   {%if page.next%}
   <a class="read-next-story {%if page.next.cover%}" style="background-image: url({{page.next.cover}}){%else%}no-cover{%endif%}" href="{{page.next.url}}">
       <section class="post">
-          <h2>{{page.next.title}}</h2>
+          <h2>{{page.next.post_title}}</h2>
           <p>{{ page.next.excerpt | truncatewords: 19 | strip_html}}&hellip;</p>
       </section>
   </a>
@@ -78,7 +78,7 @@ post_class: post-template
   {%if page.previous%}
   <a class="read-next-story prev {%if page.previous.cover%}" style="background-image: url({{page.previous.cover}}){%else%}no-cover{%endif%}" href="{{page.previous.url}}">
       <section class="post">
-          <h2>{{page.previous.title}}</h2>
+          <h2>{{page.previous.post_title}}</h2>
           <p>{{ page.previous.excerpt | truncatewords: 19 | strip_html}}&hellip;</p>
       </section>
   </a>
