@@ -10,8 +10,6 @@ published: true
 
 ---
 
-# Impressum
-
 Matthias Pfefferle<br />
 Tannenweg 21<br />
 76275 Ettlingen, BW, Germany<br />
