@@ -1,5 +1,5 @@
 ---
-ID: 2
+ID: 80
 post_title: Datenschutzerklärung
 author: Matthias Pfefferle
 post_date: 2018-04-13 13:56:00
@@ -13,7 +13,7 @@ published: true
 
 ### Geltungsbereich
 
-Diese Datenschutzerklärung klärt Nutzer über die Art, den Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten durch den verantwortlichen Anbieter 
+Diese Datenschutzerklärung klärt Nutzer über die Art, den Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten durch den verantwortlichen Anbieter
 
 Matthias Pfefferle<br />
 Tannenweg 21<br />
@@ -43,4 +43,4 @@ Es kann vorkommen, dass innerhalb dieses Onlineangebotes Inhalte Dritter, wie zu
 Der Nutzer hat das Recht, auf Antrag unentgeltlich Auskunft zu erhalten über die personenbezogenen Daten, die über ihn gespeichert wurden. Zusätzlich hat der Nutzer das Recht auf Berichtigung unrichtiger Daten, Sperrung und Löschung seiner personenbezogenen Daten, soweit dem keine gesetzliche Aufbewahrungspflicht entgegensteht.
 
 
-<a href="https://datenschutz-generator.de/"><strong>Erstellt mit Datenschutz-Generator.de von RA Dr. Thomas Schwenke</strong></a></p>
+<a href="https://datenschutz-generator.de/"><strong>Erstellt mit Datenschutz-Generator.de von RA Dr. Thomas Schwenke</strong></a>
