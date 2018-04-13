@@ -7,14 +7,13 @@ post_excerpt: ""
 layout: page
 permalink: /impressum/
 published: true
-
 ---
 
 Matthias Pfefferle<br />
 Tannenweg 21<br />
 76275 Ettlingen, BW, Germany<br />
 
-Tel.: +49 6203 4956878
+Tel.: +49 (0) 7243 5143511
 
 E-Mail: openwebpodcast@googlemail.com
 
