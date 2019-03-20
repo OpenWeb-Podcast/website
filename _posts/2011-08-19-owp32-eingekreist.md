@@ -8,14 +8,14 @@ layout: post
 permalink: 401/owp32-eingekreist/
 published: true
 enclosure:
-  - http://openwebpodcast.de/mp3/openweb32.mp3
+  - https://openwebpodcast.de/mp3/openweb32.mp3
   -
   - audio/mpeg
 ---
 
 Nun geht es wieder los mit dem Open Web Podcast: Neues Logo, ein bisschen neue Technik, neuer Livestream und nicht mehr so technisch! Los geht's!
 
-<audio controls=""><source src="http://openwebpodcast.de/mp3/openweb32.mp3" type="audio/mpeg"> Ihr Browser unterstützt diesen Audio-Player nicht.</audio>
+<audio controls=""><source src="https://openwebpodcast.de/mp3/openweb32.mp3" type="audio/mpeg"> Ihr Browser unterstützt diesen Audio-Player nicht.</audio>
 
 <small>Länge: 59m, [Download MP3]({{ post.enclosure[0] }})</small>
 

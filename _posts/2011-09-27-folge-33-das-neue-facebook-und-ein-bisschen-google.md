@@ -8,7 +8,7 @@ layout: post
 permalink: 409/folge-33-das-neue-facebook-und-ein-bisschen-google/
 published: true
 enclosure:
-  - http://openwebpodcast.de/mp3/openweb33.mp3
+  - https://openwebpodcast.de/mp3/openweb33.mp3
   - 1234
 categories:
   - Podcast
@@ -22,11 +22,11 @@ tags:
 ...und weiter geht's! Heute mal als _ClosedWebPodcast_ zu den neuen Features von Facebook und Google... Viel Spaß beim hören :)
 
 <audio controls>
-  <source src="http://openwebpodcast.de/mp3/openweb33.mp3" type="audio/mpeg">
+  <source src="https://openwebpodcast.de/mp3/openweb33.mp3" type="audio/mpeg">
   Ihr Browser unterstützt diesen Audio-Player nicht.
 </audio>
 
-<small>Länge: 56m, [Download MP3](http://openwebpodcast.de/mp3/openweb33.mp3)</small>
+<small>Länge: 56m, [Download MP3](https://openwebpodcast.de/mp3/openweb33.mp3)</small>
 
 **Facebook**
 * [Smart Lists](http://www.facebook.com/blog.php?post=10150278932602131)

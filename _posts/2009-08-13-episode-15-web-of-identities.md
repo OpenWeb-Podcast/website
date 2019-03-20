@@ -9,7 +9,7 @@ permalink: /115/episode-15-web-of-identities/
 published: true
 enclosure:
   - |
-    http://openwebpodcast.de/mp3/openweb15.mp3
+    https://openwebpodcast.de/mp3/openweb15.mp3
     76421248
     audio/mpeg
 ---
@@ -25,7 +25,7 @@ Weitere im Podcast genannte Links:
 Und hier der Podcast:
 
 <audio controls>
-  <source src="http://openwebpodcast.de/mp3/openweb15.mp3" type="audio/mpeg">
+  <source src="https://openwebpodcast.de/mp3/openweb15.mp3" type="audio/mpeg">
   Ihr Browser unterstützt diesen Audio-Player nicht.
 </audio>
 <small>Länge: 1:26h (72,8 MB)</small>
@@ -46,6 +46,6 @@ Und hier der Podcast:
 
 ### **Den Podcast bekommen**:
 
-*   [Download MP3](http://openwebpodcast.de/mp3/openweb15.mp3)
+*   [Download MP3](https://openwebpodcast.de/mp3/openweb15.mp3)
 *   [RSS Feed](http://feeds.feedburner.com/openwebcast)
 *   [iTunes](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=294732929)

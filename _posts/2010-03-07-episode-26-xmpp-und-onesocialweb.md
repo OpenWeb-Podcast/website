@@ -9,20 +9,20 @@ permalink: /308/episode-26-xmpp-und-onesocialweb/
 published: true
 enclosure:
   - |
-    http://openwebpodcast.de/mp3/openweb26.mp3
+    https://openwebpodcast.de/mp3/openweb26.mp3
     52211840
     audio/mpeg
 ---
 
-![xmpp](http://openwebpodcast.de/uploads/2010/03/xmpp.png "xmpp")Vor ein paar Wochen wurde auf der [FOSDEM](http://fosdem.org/2010/) erstmals das Projekt _[OneSocialWeb](http://onesocialweb.org/)_ vorgestellt: ein _free, open, and decentralized social_ Network basierend auf XMPP. [Christian](http://mrtopf.de) und ich ([Matthias](http://notizblog.org/)) haben uns für dieses Thema mal wieder tatkräftige Unterstützung geholt: [Raphael Kallensee](http://identi.ca/rkallensee) arbeite als Web-Entwickler in Mannheimer und bloggt unter [raphael.kallensee.name](http://raphael.kallensee.name/).
+![xmpp](https://openwebpodcast.de/uploads/2010/03/xmpp.png "xmpp")Vor ein paar Wochen wurde auf der [FOSDEM](http://fosdem.org/2010/) erstmals das Projekt _[OneSocialWeb](http://onesocialweb.org/)_ vorgestellt: ein _free, open, and decentralized social_ Network basierend auf XMPP. [Christian](http://mrtopf.de) und ich ([Matthias](http://notizblog.org/)) haben uns für dieses Thema mal wieder tatkräftige Unterstützung geholt: [Raphael Kallensee](http://identi.ca/rkallensee) arbeite als Web-Entwickler in Mannheimer und bloggt unter [raphael.kallensee.name](http://raphael.kallensee.name/).
 
 Viel Spaß beim hören:
 
 <audio controls>
-  <source src="http://openwebpodcast.de/mp3/openweb26.mp3" type="audio/mpeg">
+  <source src="https://openwebpodcast.de/mp3/openweb26.mp3" type="audio/mpeg">
   Ihr Browser unterstützt diesen Audio-Player nicht.
 </audio>
-<small>Länge: 0:57h (49.8 MB), <a href="http://openwebpodcast.de/mp3/openweb26.mp3">Download MP3</a></small>
+<small>Länge: 0:57h (49.8 MB), <a href="https://openwebpodcast.de/mp3/openweb26.mp3">Download MP3</a></small>
 
 (weiter unten gibt es auch noch zwei Videos)
 

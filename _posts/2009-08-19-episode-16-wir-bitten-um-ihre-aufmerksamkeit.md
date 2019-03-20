@@ -9,7 +9,7 @@ permalink: /137/episode-16-wir-bitten-um-ihre-aufmerksamkeit/
 published: true
 enclosure:
   - |
-    http://openwebpodcast.de/mp3/openweb16.mp3
+    https://openwebpodcast.de/mp3/openweb16.mp3
     75100288
     audio/mpeg
 
@@ -19,10 +19,10 @@ Diesmal dreht sich alles um die Aufmerksamkeit, und zwar die eigene. Es geht nä
 Dazu haben wir Axel Quack eingeladen, der uns einen Überblick verschaffen will.
 
 <audio controls>
-  <source src="http://openwebpodcast.de/mp3/openweb16.mp3" type="audio/mpeg">
+  <source src="https://openwebpodcast.de/mp3/openweb16.mp3" type="audio/mpeg">
   Ihr Browser unterstützt diesen Audio-Player nicht.
 </audio>
-<small>Länge: 1:25h (71,6 MB), <a href="http://openwebpodcast.de/mp3/openweb16.mp3">Download MP3</a></small>
+<small>Länge: 1:25h (71,6 MB), <a href="https://openwebpodcast.de/mp3/openweb16.mp3">Download MP3</a></small>
 
 ## Shownotes
 

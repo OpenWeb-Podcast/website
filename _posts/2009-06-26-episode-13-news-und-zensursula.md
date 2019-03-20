@@ -9,7 +9,7 @@ permalink: /98/episode-13-news-und-zensursula/
 published: true
 enclosure:
   - |
-    http://openwebpodcast.de/mp3/openweb13.mp3
+    https://openwebpodcast.de/mp3/openweb13.mp3
     84281501
     audio/mpeg
 
@@ -21,12 +21,12 @@ In Folge 13 haben <a href="http://mrtopf.de/blog">Christian</a> und <a href="htt
 Viel Spaß beim hören…
 
 <audio controls>
-  <source src="http://openwebpodcast.de/mp3/openweb13.mp3" type="audio/mpeg">
+  <source src="https://openwebpodcast.de/mp3/openweb13.mp3" type="audio/mpeg">
   Ihr Browser unterstützt diesen Audio-Player nicht.
 </audio>
 
 Die Links zur Sendung [findet ihr hier](http://openweb.mixxt.de/networks/wiki/index.episode-13)! **Den Podcast bekommen**:
 
-*   [Download MP3](http://openwebpodcast.de/mp3/openweb13.mp3)
+*   [Download MP3](https://openwebpodcast.de/mp3/openweb13.mp3)
 *   [RSS Feed](http://feeds.feedburner.com/openwebcast)
 *   [iTunes](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=294732929)

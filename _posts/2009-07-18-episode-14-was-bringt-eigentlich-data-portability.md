@@ -9,7 +9,7 @@ permalink: /107/episode-14-was-bringt-eigentlich-data-portability/
 published: true
 enclosure:
   - |
-    http://openwebpodcast.de/mp3/openweb14.mp3
+    https://openwebpodcast.de/mp3/openweb14.mp3
     47711384
     audio/mpeg
 
@@ -31,12 +31,12 @@ Folge 14 besteht nochmal aus ner ganze Menge News:
 Viel Spaß beim hören…
 
 <audio controls>
-  <source src="http://openwebpodcast.de/mp3/openweb14.mp3" type="audio/mpeg">
+  <source src="https://openwebpodcast.de/mp3/openweb14.mp3" type="audio/mpeg">
   Ihr Browser unterstützt diesen Audio-Player nicht.
 </audio>
 
 Die Links zur Sendung [findet ihr hier](http://openweb.mixxt.de/networks/wiki/index.episode-14)! **Den Podcast bekommen**:
 
-*   [Download MP3](http://openwebpodcast.de/mp3/openweb14.mp3)
+*   [Download MP3](https://openwebpodcast.de/mp3/openweb14.mp3)
 *   [RSS Feed](http://feeds.feedburner.com/openwebcast)
 *   [iTunes](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=294732929)

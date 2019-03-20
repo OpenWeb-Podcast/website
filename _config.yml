@@ -8,7 +8,7 @@ logo: false
 cover: /img/owp-logo.jpg
 paginate: 15
 baseurl: /
-domain_name: 'http://openwebpodcast.de'
+domain_name: 'https://openwebpodcast.de'
 gems: [jekyll-paginate]
 navigation:
     - label: Home

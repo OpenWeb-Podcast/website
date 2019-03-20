@@ -20,6 +20,6 @@ E-Mail: openwebpodcast@googlemail.com
 Web:
 <ul>
 	<li><a href="http://blog.openwebpodcast.de/">http://blog.openwebpodcast.de/</a></li>
-	<li><a href="http://openwebpodcast.de/">http://openwebpodcast.de/</a></li>
+	<li><a href="https://openwebpodcast.de/">https://openwebpodcast.de/</a></li>
 </ul>
 <strong>Verantwortlicher im Sinne von § 5 TMG, § 55 RfStV: Matthias Pfefferle (Anschrift wie oben)</strong>

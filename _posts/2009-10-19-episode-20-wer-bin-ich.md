@@ -9,7 +9,7 @@ permalink: /205/episode-20-wer-bin-ich/
 published: true
 enclosure:
   - |
-    http://openwebpodcast.de/mp3/openweb20.mp3
+    https://openwebpodcast.de/mp3/openweb20.mp3
     67948672
     audio/mpeg
 ---
@@ -19,10 +19,10 @@ Nachdem der [letzte Podcast](http://blog.openwebpodcast.de/187/owp19/) von Sebas
 Wir gehen dann noch im Detail auf die entsprechenden Standards ein, die eine Rolle spielen.
 
 <audio controls>
-  <source src="http://openwebpodcast.de/mp3/openweb20.mp3" type="audio/mpeg">
+  <source src="https://openwebpodcast.de/mp3/openweb20.mp3" type="audio/mpeg">
   Ihr Browser unterstützt diesen Audio-Player nicht.
 </audio>
-<small>Länge: 1:13h (64,8 MB), <a href="http://openwebpodcast.de/mp3/openweb20.mp3">Download MP3</a></small>
+<small>Länge: 1:13h (64,8 MB), <a href="https://openwebpodcast.de/mp3/openweb20.mp3">Download MP3</a></small>
 ### News
 
 *   Google Wave Hackathon, 18.10.2009, St.Oberholz, Berlin (somit vorbei)

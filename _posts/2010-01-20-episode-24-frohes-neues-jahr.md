@@ -9,7 +9,7 @@ permalink: /268/episode-24-frohes-neues-jahr/
 published: true
 enclosure:
   - |
-    http://openwebpodcast.de/mp3/openweb24.mp3
+    https://openwebpodcast.de/mp3/openweb24.mp3
     56701056
     audio/mpeg
 ---
@@ -21,10 +21,10 @@ Da Sebastian leider keine Zeit hatte und es sich zu dritt einfach schöner podca
 Viel Spaß beim hören :)
 
 <audio controls>
-  <source src="http://openwebpodcast.de/mp3/openweb24.mp3" type="audio/mpeg">
+  <source src="https://openwebpodcast.de/mp3/openweb24.mp3" type="audio/mpeg">
   Ihr Browser unterstützt diesen Audio-Player nicht.
 </audio>
-<small>Länge: 1:03h (54.1 MB), <a href="http://openwebpodcast.de/mp3/openweb24.mp3">Download MP3</a></small>
+<small>Länge: 1:03h (54.1 MB), <a href="https://openwebpodcast.de/mp3/openweb24.mp3">Download MP3</a></small>
 
 #### News
 

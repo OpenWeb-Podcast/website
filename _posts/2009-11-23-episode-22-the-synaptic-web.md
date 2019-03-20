@@ -9,7 +9,7 @@ permalink: /235/episode-22-the-synaptic-web/
 published: true
 enclosure:
   - |
-    http://openwebpodcast.de/mp3/owp22.mp3
+    https://openwebpodcast.de/mp3/owp22.mp3
     44372096
     audio/mpeg
 ---
@@ -19,10 +19,10 @@ enclosure:
 In der aktuellen Folge beschäftigen wir ([Christian](http://mrtopf.de) und [Matthias](http://notizblog.org/)) uns hauptsächlich mit der _[Synaptic Web](http://www.synapticweb.org)_-Idee und wie man sie technisch umsetzen könnte: [Salmon-Protokoll](http://www.salmon-protocol.org/).
 
 <audio controls>
-  <source src="http://openwebpodcast.de/mp3/openweb22.mp3" type="audio/mpeg">
+  <source src="https://openwebpodcast.de/mp3/openweb22.mp3" type="audio/mpeg">
   Ihr Browser unterstützt diesen Audio-Player nicht.
 </audio>
-<small>Länge: 0:48h (42.3 MB), <a href="http://openwebpodcast.de/mp3/owp22.mp3">Download MP3</a></small>
+<small>Länge: 0:48h (42.3 MB), <a href="https://openwebpodcast.de/mp3/owp22.mp3">Download MP3</a></small>
 
 ### Shownotes:
 
