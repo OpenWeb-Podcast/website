@@ -1,6 +1,6 @@
 ---
 ID: 1872
-post_title: '&#8230;lang lebe der OpenWeb-Podcast!'
+post_title: '...lang lebe der OpenWeb-Podcast!'
 author: Matthias Pfefferle
 post_date: 2012-12-16 20:15:13
 post_excerpt: ""
