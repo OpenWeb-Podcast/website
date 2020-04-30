@@ -1,6 +1,6 @@
 ---
 ID: 205
-post_title: 'Episode 20 &#8211; Wer bin ich?'
+post_title: 'Episode 20 - Wer bin ich?'
 author: Christian Scholz
 post_date: 2009-10-19 13:10:14
 post_excerpt: ""

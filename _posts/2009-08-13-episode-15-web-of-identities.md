@@ -1,6 +1,6 @@
 ---
 ID: 115
-post_title: 'Episode 15 &#8211; Web of Identities'
+post_title: 'Episode 15 - Web of Identities'
 author: Christian Scholz
 post_date: 2009-08-13 14:14:44
 post_excerpt: ""

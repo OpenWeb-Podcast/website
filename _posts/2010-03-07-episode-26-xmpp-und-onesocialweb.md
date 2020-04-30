@@ -1,6 +1,6 @@
 ---
 ID: 308
-post_title: 'Episode 26 &#8211; XMPP und OneSocialWeb'
+post_title: 'Episode 26 - XMPP und OneSocialWeb'
 author: Matthias Pfefferle
 post_date: 2010-03-07 01:24:28
 post_excerpt: ""

@@ -1,6 +1,6 @@
 ---
 ID: 31
-post_title: 'Episode 6 &#8211; Distributed Social Networking'
+post_title: 'Episode 6 - Distributed Social Networking'
 author: Matthias Pfefferle
 post_date: 2008-11-29 19:33:00
 post_excerpt: ""

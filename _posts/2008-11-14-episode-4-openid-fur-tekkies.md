@@ -1,6 +1,6 @@
 ---
 ID: 33
-post_title: 'Episode 4 &#8211; OpenID für Tekkies'
+post_title: 'Episode 4 - OpenID für Tekkies'
 author: Matthias Pfefferle
 post_date: 2008-11-14 12:52:00
 post_excerpt: ""

@@ -29,9 +29,9 @@ layout: null
     </image>
     {% for post in site.posts %}
     <item>
-      <title>{{ post.title | xml_escape }}</title>
+      <title>{{ post.post_title | xml_escape }}</title>
       <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+      <pubDate>{{ post.post_date | date_to_rfc822 }}</pubDate>
       <dc:creator><![CDATA[Matthias Pfefferle]]></dc:creator>
       <author>info@openwebpodcast.de</author>
       <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>

@@ -1,6 +1,6 @@
 ---
 ID: 27
-post_title: 'Episode 9 &#8211; Weihnachten naht und wir machen Bestandsaufnahme'
+post_title: 'Episode 9 - Weihnachten naht und wir machen Bestandsaufnahme'
 author: Matthias Pfefferle
 post_date: 2008-12-19 23:11:00
 post_excerpt: ""

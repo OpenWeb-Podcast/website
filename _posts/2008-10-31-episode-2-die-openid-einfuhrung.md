@@ -1,6 +1,6 @@
 ---
 ID: 36
-post_title: 'Episode 2 &#8211; Die OpenID Einführung'
+post_title: 'Episode 2 - Die OpenID Einführung'
 author: Matthias Pfefferle
 post_date: 2008-10-31 21:29:00
 post_excerpt: ""

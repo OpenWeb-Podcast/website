@@ -1,6 +1,6 @@
 ---
 ID: 235
-post_title: 'Episode 22 &#8211; The Synaptic Web'
+post_title: 'Episode 22 - The Synaptic Web'
 author: Christian Scholz
 post_date: 2009-11-23 22:16:20
 post_excerpt: ""

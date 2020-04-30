@@ -1,6 +1,6 @@
 ---
 ID: 107
-post_title: 'Episode 14 &#8211; Was bringt eigentlich Data Portability?'
+post_title: 'Episode 14 - Was bringt eigentlich Data Portability?'
 author: Matthias Pfefferle
 post_date: 2009-07-18 12:10:14
 post_excerpt: ""

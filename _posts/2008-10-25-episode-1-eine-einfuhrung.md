@@ -1,6 +1,6 @@
 ---
 ID: 37
-post_title: 'Episode 1 &#8211; Eine Einführung'
+post_title: 'Episode 1 - Eine Einführung'
 author: Matthias Pfefferle
 post_date: 2008-10-25 16:32:00
 post_excerpt: ""

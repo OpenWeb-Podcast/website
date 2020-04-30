@@ -1,6 +1,6 @@
 ---
 ID: 137
-post_title: 'Episode 16 &#8211; Wir bitten um Ihre Aufmerksamkeit!'
+post_title: 'Episode 16 - Wir bitten um Ihre Aufmerksamkeit!'
 author: Christian Scholz
 post_date: 2009-08-19 12:36:54
 post_excerpt: ""

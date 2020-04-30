@@ -1,6 +1,6 @@
 ---
 ID: 32
-post_title: 'Episode 5 &#8211; Microformats'
+post_title: 'Episode 5 - Microformats'
 author: Matthias Pfefferle
 post_date: 2008-11-21 00:39:00
 post_excerpt: ""

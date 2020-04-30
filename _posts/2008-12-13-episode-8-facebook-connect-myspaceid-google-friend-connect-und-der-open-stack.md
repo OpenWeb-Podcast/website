@@ -1,6 +1,6 @@
 ---
 ID: 28
-post_title: 'Episode 8 &#8211; Facebook Connect, MySpaceID, Google Friend Connect und der Open Stack'
+post_title: 'Episode 8 - Facebook Connect, MySpaceID, Google Friend Connect und der Open Stack'
 author: Matthias Pfefferle
 post_date: 2008-12-13 20:13:00
 post_excerpt: ""

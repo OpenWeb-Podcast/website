@@ -1,6 +1,6 @@
 ---
 ID: 35
-post_title: 'Episode 3 &#8211; OAuth'
+post_title: 'Episode 3 - OAuth'
 author: Matthias Pfefferle
 post_date: 2008-11-09 14:12:00
 post_excerpt: ""

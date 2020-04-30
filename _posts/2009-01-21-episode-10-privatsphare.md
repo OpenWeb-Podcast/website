@@ -1,6 +1,6 @@
 ---
 ID: 26
-post_title: 'Episode 10 &#8211; Privatsphäre'
+post_title: 'Episode 10 - Privatsphäre'
 author: Matthias Pfefferle
 post_date: 2009-01-21 15:26:00
 post_excerpt: ""

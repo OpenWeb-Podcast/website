@@ -1,6 +1,6 @@
 ---
 ID: 25
-post_title: 'Episode 11 &#8211; News News News'
+post_title: 'Episode 11 - News News News'
 author: Matthias Pfefferle
 post_date: 2009-02-06 20:51:00
 post_excerpt: ""

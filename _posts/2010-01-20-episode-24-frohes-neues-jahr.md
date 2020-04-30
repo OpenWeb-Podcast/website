@@ -1,6 +1,6 @@
 ---
 ID: 268
-post_title: 'Episode 24 &#8211; Frohes neues Jahr'
+post_title: 'Episode 24 - Frohes neues Jahr'
 author: Matthias Pfefferle
 post_date: 2010-01-20 15:47:01
 post_excerpt: ""

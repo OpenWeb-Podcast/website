@@ -1,6 +1,6 @@
 ---
 ID: 98
-post_title: 'Episode 13 &#8211; News und Zensursula'
+post_title: 'Episode 13 - News und Zensursula'
 author: Matthias Pfefferle
 post_date: 2009-06-26 21:57:04
 post_excerpt: ""

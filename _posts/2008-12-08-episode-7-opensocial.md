@@ -1,6 +1,6 @@
 ---
 ID: 30
-post_title: 'Episode 7 &#8211; OpenSocial'
+post_title: 'Episode 7 - OpenSocial'
 author: Matthias Pfefferle
 post_date: 2008-12-08 10:14:00
 post_excerpt: ""
