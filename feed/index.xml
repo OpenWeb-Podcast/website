@@ -13,6 +13,8 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
+    <managingEditor>info@openwebpodcast.de</managingEditor>
+    <webMaster>info@openwebpodcast.de</webMaster>
     <image>
       <url>https://openwebpodcast.de/uploads/2015/08/cropped-owplogo-512x512-32x32.png</url>
       <title>Der deutsche OpenWeb-Podcast</title>
@@ -26,6 +28,7 @@ layout: null
       <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
       <dc:creator><![CDATA[Matthias Pfefferle]]></dc:creator>
+      <author>info@openwebpodcast.de</author>
       <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
       <description>{{ post.content | strip_html | strip_newlines }}</description>
       <content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
