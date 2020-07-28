@@ -11,7 +11,7 @@ published: true
 
 Die zweite Folge:
 
-> [Hier & Jetzt Open Web 2: Open Web 2: Wo WordPress heute steht, und was fehlt](http://neunetz.fm/hier-jetzt-open-web-2-wo-wordpress-heute-steht-und-was-fehlt/)
+> [Hier & Jetzt Open Web 2: Wo WordPress heute steht, und was fehlt](http://neunetz.fm/hier-jetzt-open-web-2-wo-wordpress-heute-steht-und-was-fehlt/)
 >
 > Matthias Pfefferle und Marcel Weiß sprechen über WordPress, das mit großem Abstand populärste Content Management System mit über 60 Prozent Marktanteil an allen auf CMS setzenden Websites weltweit. Wie steht es um WordPress und sein Ökosystem? Was könnte WordPress machen, um sein Ökosystem zu stärken?
 >
