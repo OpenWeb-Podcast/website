@@ -1,6 +1,6 @@
 ---
 ID: 1875
-post_title: 'Hier & Jetzt Open Web 3: Github Sponsors, WordPress-Tumblr, Mastodon'
+post_title: 'Hier & Jetzt – Open Web 3: Github Sponsors, WordPress-Tumblr, Mastodon'
 author: Matthias Pfefferle
 post_date: 2019-09-06 10:00:00
 post_excerpt: ""
