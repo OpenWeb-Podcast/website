@@ -9,7 +9,7 @@ permalink: 1877/hier-und-jetzt-open-web-5/
 published: true
 ---
 
-Die dritte Folge:
+Die fünfte Folge:
 
 > [Hier & Jetzt Open Web 5: Was bedeutet die Annäherung von WordPress an Matrix?](http://neunetz.fm/__trashed/)
 >

@@ -19,6 +19,6 @@ Die zweite Folge:
 >
 > Hinweis: Zwischen Aufnahme und Veröffentlichung hat (ausgerechnet!) GitHub [eine Unterstützungsfunktion ähnlich Patreon für Open-Source-Entwickler](https://github.com/sponsors) eingeführt. Wir sprechen unter anderem über etwas Vergleichbares für WordPress. Diese Entwicklung ist besonders amüsant, weil hier gleich die zwei wesentlichen offenen Flanken bei WordPress zusammenkommen, wie man nach der Folge weiß. Wir werden das sicher in der nächsten Ausgabe nochmal thematisieren.
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/632605101&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/48b90ad4"></iframe>
 
 "**Hier & Jetzt**" kann man per [RSS-Feed](http://feed.neunetz.fm/huj) **abonnieren** und findet man natürlich auch bei [Apple Podcasts](https://itunes.apple.com/de/podcast/hier-jetzt/id937734214) und in jeder Podcast-App.
