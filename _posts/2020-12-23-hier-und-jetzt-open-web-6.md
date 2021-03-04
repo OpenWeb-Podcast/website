@@ -9,7 +9,7 @@ permalink: 1878/hier-und-jetzt-open-web-6/
 published: true
 ---
 
-Die dritte Folge:
+Die sechste Folge:
 
 > [Hier & Jetzt – Open Web 6: Eine Liebeserklärung an RSS](http://neunetz.fm/hier-jetzt-open-web-6-eine-liebeserklaerung-an-rss/)
 >
