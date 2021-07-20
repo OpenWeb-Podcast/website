@@ -19,6 +19,10 @@ navigation:
       url: /about/
     - label: Fork on GitHub
       url: https://github.com/OpenWeb-Podcast/openweb-podcast.github.io/
+    - label: Twitter
+      url: https://twitter.com/openwebpodcast
+    - label: Spotify
+      url: https://open.spotify.com/show/4SlzdTof9Qih7aXwsJhIpl
     - label: Datenschutzerklärung
       url: /datenschutz/
     - label: Impressum
