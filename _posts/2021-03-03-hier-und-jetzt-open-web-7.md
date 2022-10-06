@@ -1,6 +1,6 @@
 ---
 ID: 1879
-post_title: 'Hier und Jetzt – Open Web 7: Dezentrales Twitter und dezentrales Clubhouse?'
+post_title: 'Hier & Jetzt – Open Web 7: Dezentrales Twitter und dezentrales Clubhouse?'
 author: Matthias Pfefferle
 post_date: 2020-12-23 10:00:00
 post_excerpt: ""
