@@ -9,7 +9,7 @@ permalink: 1880/neunetzcast-86/
 published: true
 ---
 
-Die siebte Folge:
+Die achte Folge:
 
 > [neunetzcast 86: Was machen W3C und co. für dezentrale Social Networks?](http://neunetz.fm/neunetzcast-86-was-machen-w3c-und-co-fuer-dezentrale-social-networks/)
 >
