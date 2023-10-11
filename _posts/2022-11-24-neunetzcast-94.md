@@ -2,7 +2,7 @@
 ID: 1882
 post_title: 'neunetzcast 94: Mastodon und ActivityPub haben den Tipping-Point überschritten'
 author: Matthias Pfefferle
-post_date: 2023-09-11 10:00:00
+post_date: 2022-11-24 10:00:00
 post_excerpt: ""
 layout: post
 permalink: 1882/neunetzcast-94/
