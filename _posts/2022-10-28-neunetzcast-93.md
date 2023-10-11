@@ -1,5 +1,5 @@
 ---
-ID: 1880
+ID: 1881
 post_title: 'neunetzcast 93: Was wir unter Dezentralität verstehen und was wir uns davon erhoffen'
 author: Matthias Pfefferle
 post_date: 2022-10-28 10:00:00
