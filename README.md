@@ -10,7 +10,7 @@ Vieles davon geschieht nicht in Deutschland und bleibt daher dem gemeinen Intern
 
 <h3>Matthias Pfefferle aka Pfefferle</h3>
 
-Matthias Pfefferle ist in diversen Gruppen zum Thema "Portability" mehr oder weniger aktiv und hat einige WordPress-Plugins zu diesem Thema veröffentlicht. Beruflich arbeitet er als Web-Entwickler hauptsachlich an der Implementierung von offenen Standards wie OpenID, OAuth und Microformats im Community-Bereich. Er bloggt unter <a href="http://notizblog.org">http://notizblog.org</a>
+Matthias Pfefferle ist in diversen Gruppen zum Thema "Portability" mehr oder weniger aktiv und hat einige WordPress-Plugins zu diesem Thema veröffentlicht. Beruflich arbeitet er als Web-Entwickler hauptsachlich an der Implementierung von offenen Standards wie OpenID, OAuth und Microformats im Community-Bereich. Er bloggt unter <a href="https://notiz.blog">https://notiz.blog</a>
 
 <h3>Christian Scholz aka Mr.Topf</h3>
 
